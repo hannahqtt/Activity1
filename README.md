@@ -1,0 +1,2 @@
+This project is part of our Graphics and Visual Computing course activity using the Python Pillow library. The task was to design a digital artwork inspired by the Intramural Season 2025. As part of BSCS 3B, our assigned theme was to create a Digital Medal/Trophy Design.
+My output is a colorful trophy design dedicated to the First Aiders Guild (FAG), recognizing the important role of medics during the intramurals
